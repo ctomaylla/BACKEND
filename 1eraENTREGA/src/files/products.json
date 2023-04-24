@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Mouse",
+    "description": "Inalambrico",
+    "code": "00001",
+    "price": 35,
+    "status": true,
+    "stock": 100,
+    "category": "Accesorios",
+    "thumbnail": "https://promart.vteximg.com.br/arquivos/ids/6558762-1000-1000/image-9ffc37ec0ca04e36936a0f45e7ac0755.jpg?v=638007677756330000",
+    "id": 1
+  },
+  {
+    "title": "Teclado",
+    "description": "Inalambrico",
+    "code": "00002",
+    "price": 40,
+    "status": true,
+    "stock": 200,
+    "category": "Accesorios",
+    "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Finfotron.pe%2Fproducto%2Fteclado-inalambrico-logitech-k380-multi-device-920-007562-p-cpu-phone-tablet%2F&psig=AOvVaw359buKOoA4iFFi_MGT3sdP&ust=1682378048738000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDI4OKQwf4CFQAAAAAdAAAAABAE",
+    "id": 2
+  },
+  {
+    "title": "Adaptador Hdmi",
+    "description": "Cable",
+    "code": "00003",
+    "price": 15,
+    "status": true,
+    "stock": 100,
+    "category": "Accesorios",
+    "thumbnail": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fdigitronik.pe%2Fproducto%2Fcable-adaptador-mini-hdmi-macho-a-hdmi-hembra%2F&psig=AOvVaw17eFnVr3Fmefi5d6dW-37L&ust=1682378164318000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCNDaspmRwf4CFQAAAAAdAAAAABAI",
+    "id": 3
+  }
+]
