@@ -1,0 +1,32 @@
+<script src="socket.io/socket.io.js"></script>
+<script src="js/home.js"></script>
+
+<h1>CTPStore</h1>
+
+  <table class="default">
+    <tr>
+        <th>ITEM</th>
+        <th>TITULO</th>
+        <th>DESCRIPCION</th>
+        <th>CODIGO</th>
+        <th>PRECIO</th>
+        <th>STOCK</th>
+        <th>CATEGORIA</th>
+    </tr>
+
+    {{#each products}}
+  
+    <tr>
+        <td>{{this.id}}</td>
+        <td>{{this.title}}</td>
+        <td>{{this.description}}</td>
+        <td>{{this.code}}</td>
+        <td>{{this.price}}</td>
+        <td>{{this.stock}}</td>
+        <td>{{this.category}}</td>
+        
+    </tr>
+    {{/each}}
+  </table>
+
+
